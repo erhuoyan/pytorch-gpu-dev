@@ -1,0 +1,7 @@
+.DS_Store
+*.pyc
+__pycache__/
+
+# Wheels are NOT stored in git — they live in object storage / GitHub Releases.
+# wheels/<variant>/urls.txt (the download manifest) IS tracked.
+wheels/**/*.whl
